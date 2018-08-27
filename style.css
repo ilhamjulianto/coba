@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+}
+
+.menu {
+    padding: 10px;
+    font-family: sans-serif;
+    width: 100%;
+    background-color: #563d7c;
+    color: white;
+}
+
+.menu ul li {
+    padding: 5px;
+    text-align: center;
+    list-style: none;
+    display: inline;
+    height: 100%;
+}
+
+.menu ul li:hover {
+    text-decoration: underline;
+}
